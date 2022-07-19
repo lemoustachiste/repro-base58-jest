@@ -1,4 +1,4 @@
-import {exampleDecode} from "../src";
+import {exampleDecode} from "../src/direct-import";
 
 describe('example code test', function () {
   it('should decode', function () {

@@ -1,4 +1,4 @@
-const base58 = require('base58-universal');
+import * as base58 from 'base58-universal';
 
 function stringToUint8Array (data) {
   if (typeof data === 'string') {

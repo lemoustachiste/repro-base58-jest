@@ -4,7 +4,7 @@ module.exports = {
       '@babel/env',
       {
         targets: {
-          node: '10'
+          node: '16'
         },
         debug: false,
         useBuiltIns: 'usage',
